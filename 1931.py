@@ -1,4 +1,4 @@
-# 210731 solved
+# 210730 solved
 def solution():
     n = int(input())
     meetings = []
