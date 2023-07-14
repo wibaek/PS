@@ -15,6 +15,7 @@
         "__config": "cpp",
         "__nullptr": "cpp",
         "string": "cpp",
-        "complex": "cpp"
+        "complex": "cpp",
+        "sstream": "cpp"
     }
 }
