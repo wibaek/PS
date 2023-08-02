@@ -16,6 +16,9 @@
         "__nullptr": "cpp",
         "string": "cpp",
         "complex": "cpp",
-        "sstream": "cpp"
+        "sstream": "cpp",
+        "stack": "cpp",
+        "__split_buffer": "cpp",
+        "deque": "cpp"
     }
 }
