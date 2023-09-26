@@ -1,5 +1,6 @@
 {
     "files.associations": {
+        "11404": "cpp",
         "**/*.html": "html",
         "**/templates/**/*.html": "django-html",
         "**/templates/**/*": "django-txt",
