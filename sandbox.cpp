@@ -4,6 +4,7 @@
 #include <queue>
 #include <string>
 #include <vector>
+#define endl "\n"
 using namespace std;
 
 int main() {
