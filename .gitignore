@@ -1,8 +1,11 @@
 *
-!*/
 
+!*/
 !*.cpp
 !*.py
+!README.md
+!*.sql
+
+*.exe
 tempCodeRunnerFile
 tempCodeRunnerFile.cpp
-*.exe
