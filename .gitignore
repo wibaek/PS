@@ -3,6 +3,7 @@
 !*/
 !*.cpp
 !*.py
+!*.java
 !README.md
 !*.sql
 
